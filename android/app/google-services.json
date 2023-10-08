@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952985743895",
+    "project_id": "turismo-misiones-c16f7",
+    "storage_bucket": "turismo-misiones-c16f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952985743895:android:415505a4399d97a2806252",
+        "android_client_info": {
+          "package_name": "com.example.app_turismo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952985743895-u2tsb02s9lnv69j7s08tsfe2prj0b470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIejrpwexRkuXkNrRUhr5z1I7bv0OGso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952985743895-u2tsb02s9lnv69j7s08tsfe2prj0b470.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
